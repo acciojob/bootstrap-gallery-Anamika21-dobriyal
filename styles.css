@@ -1,7 +1,7 @@
 /*  your css code here. If applicable */
- .card-body {
-      text-align: center;
-    }
-    .card {
-      border-radius: 15px;
-    }
+.card-body {
+  text-align: center !important;
+}
+.card {
+  border-radius: 15px !important;
+}
