@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-.card-body {
+.card-body h6, .card-body p {
   text-align: center !important;
 }
 .card {
