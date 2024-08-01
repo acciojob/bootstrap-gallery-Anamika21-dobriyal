@@ -2,6 +2,12 @@
 .card-body{
   text-align: center !important;
 }
+p {
+    text-align: center;
+}
+.card p {
+    text-align: center;
+}
 .card {
   border-radius: 15px !important;
 }
@@ -10,10 +16,4 @@ h2,h6,p{
 }
 .card-text{
 	text-align: center;
-}
-p {
-    text-align: center;
-}
-.card p {
-    text-align: center;
 }
