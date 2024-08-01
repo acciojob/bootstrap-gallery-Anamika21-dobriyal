@@ -11,3 +11,9 @@ h2,h6,p{
 .card-text{
 	text-align: center;
 }
+p {
+    text-align: center;
+}
+.card p {
+    text-align: center;
+}
